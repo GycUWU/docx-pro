@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+temp_docx_pro_build/
+*.raw.png
+.DS_Store
