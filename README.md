@@ -2,7 +2,10 @@
 
 An all-in-one Agent Skill and CLI tool for converting Markdown to publication-grade Microsoft Word (`.docx`) documents with native OMML vector math, ultra-HD 300 DPI diagrams, and customizable corporate/academic templates.
 
+[English README](README.md) | [中文说明文档](README_ZH.md)
+
 ## Key Features
+
 
 1. **Native Microsoft OMML Formulas**:
    - Converts LaTeX formulas into true native Word vector formulas (`<m:oMath>`), eliminating ugly raster images or garbled Unicode characters.
